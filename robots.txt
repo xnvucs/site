@@ -1,0 +1,25 @@
+User-agent: *
+Crawl-delay: 5
+Allow: /
+
+Sitemap: https://www.avaweb.site/feed.xml
+Sitemap: https://www.avaweb.site/sitemap.html
+Sitemap: https://www.avaweb.site/sitemap.xml
+Sitemap: https://www.avaweb.site/sitemap-image.xml
+Sitemap: https://www.avaweb.site/urllist.txt
+
+User-agent: Googlebot
+User-agent: Googlebot-Image
+User-agent: Mediapartners-Google
+User-agent: Googlebot-news
+User-agent: BingBot
+User-agent: MSNBot
+User-agent: Yandex
+Allow: /
+Allow: *.js
+Allow: *.css
+Allow: *.jpeg
+Allow: *.jpg
+Allow: *.png
+Allow: *.gif
+Allow: *.svg
