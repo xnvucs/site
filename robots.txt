@@ -1,5 +1,4 @@
 User-agent: *
-Crawl-delay: 5
 Allow: /
 
 Sitemap: https://www.avaweb.site/feed.xml
